@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="1heal-medai"
+   viewBox="0 0 738.59789 114.39796"
+   width="2082.3171"
+   height="322.55063"
+   version="1.1"
+   sodipodi:docname="1healogo.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview106"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.46079792"
+     inkscape:cx="1296.6638"
+     inkscape:cy="273.43873"
+     inkscape:window-width="1320"
+     inkscape:window-height="1032"
+     inkscape:window-x="43"
+     inkscape:window-y="149"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="1heal-medai" />
+  <!-- ======================
+       PARAMÈTRES MODIFIABLES
+       ====================== -->
+  <defs
+     id="defs73">
+    <style
+       type="text/css"
+       id="style71"><![CDATA[
+      /* --- Couleurs principales --- */
+
+
+/* bleu #0073bd; bleu clair #30baed; */
+
+      .color-coeur { fill: red; }   /* bleu principal */
+      .color-secondary { fill: #ffffff; } /* blanc */
+      .color-branche1 { fill: #30baed; }    /* bleu clair */
+      .color-branche2 { fill: #008000; }    /* vert */
+
+
+      /* --- Texte --- */
+      .text-default {
+        fill: #ffffff;
+        font-family: Arial, sans-serif;
+        font-size: 6px;
+        font-weight: bold;
+      }
+    ]]></style>
+  </defs>
+  <!-- ==========================
+       ROTATION GLOBALE DU LOGO
+       (modifie l’angle ici ↓)
+       ========================== -->
+  <path
+     class="color-coeur"
+     d="M 179.21533,7.8959903 C 168.36319,6.6162079 158.52177,14.38403 157.25193,25.235571 L 155.59486,39.284826 141.54559,37.6278 c -10.85211,-1.279779 -20.69356,6.48804 -21.96337,17.339575 -1.2798,10.852112 6.48803,20.693568 17.33956,21.963383 l 53.35223,6.280897 6.28088,-53.352232 C 197.83469,19.007261 190.06687,9.165805 179.21533,7.8959903 Z"
+     id="1coeur-7"
+     style="fill:#ff0000" />
+  <path
+     class="color-accent"
+     d="m 188.76815,96.980364 1.61227,-13.368017 -39.29705,-4.730668 -1.61228,13.368016 c -1.30946,10.847735 6.43074,20.709675 17.27791,22.009155 10.84772,1.30947 20.70968,-6.43075 22.00915,-17.27792 z"
+     id="branche2-6"
+     style="fill:#a6f31f;fill-opacity:1" />
+  <path
+     class="color-branche1"
+     d="m 208.85537,45.696076 -13.36342,-1.649889 -4.83994,39.283735 13.36342,1.649889 c 10.84404,1.339541 20.72747,-6.373131 22.0571,-17.216646 1.33954,-10.844041 -6.37313,-20.727478 -17.21664,-22.057111 z"
+     id="branche1-5"
+     style="fill:#30baed" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.7008px;font-family:Folks-Heavy;-inkscape-font-specification:'Folks-Heavy Bold';fill:#008000;stroke-width:0.3547"
+     x="137.53618"
+     y="47.593075"
+     id="text729"
+     transform="rotate(7)"><tspan
+       sodipodi:role="line"
+       id="tspan727"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.7008px;font-family:Folks;-inkscape-font-specification:'Folks Bold';fill:#ffffff;stroke-width:0.3547"
+       x="137.53618"
+       y="47.593075">SANT</tspan></text>
+  <path
+     class="color-coeur"
+     d="M 303.05161,0.13254146 C 292.19947,-1.1472403 282.35804,6.6205805 281.0882,17.472122 l -1.65702,14.049261 -14.04927,-1.657026 c -10.8521,-1.279778 -20.69357,6.488039 -21.96337,17.339575 -1.27978,10.852114 6.48803,20.693569 17.33956,21.963383 l 53.35223,6.280897 6.28089,-53.352232 C 321.67102,11.243819 313.90319,1.4023624 303.05166,0.13254755 Z"
+     id="1coeur-7-7"
+     style="fill:#ff0000" />
+  <path
+     class="color-accent"
+     d="m 312.60442,89.794229 1.61227,-13.368017 -39.29705,-4.730667 -1.61227,13.368017 c -1.30946,10.847724 6.43075,20.709668 17.27791,22.009158 10.84772,1.30946 20.70968,-6.43076 22.00915,-17.277924 z"
+     id="branche2-6-1"
+     style="fill:#a6f31f;fill-opacity:1" />
+  <path
+     class="color-branche1"
+     d="m 333.40104,37.932628 -13.36342,-1.64989 -4.83994,39.283735 13.36342,1.649889 c 10.84404,1.339541 20.72747,-6.373131 22.0571,-17.216645 1.33955,-10.844041 -6.37313,-20.727479 -17.21664,-22.057112 z"
+     id="branche1-5-1"
+     style="fill:#30baed" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.2677px;font-family:Folks;-inkscape-font-specification:'Folks Bold';fill:#008000;stroke-width:0.3547"
+     x="257.70267"
+     y="28.531645"
+     id="text729-5"
+     transform="rotate(7)"><tspan
+       sodipodi:role="line"
+       id="tspan727-9"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.2677px;font-family:Folks;-inkscape-font-specification:'Folks Bold';fill:#ffffff;stroke-width:0.3547"
+       x="257.70267"
+       y="28.531645">MED</tspan></text>
+  <path
+     class="color-coeur"
+     d="M 430.89609,3.0270487 C 420.04395,1.747267 410.20252,9.5150878 408.93269,20.366631 l -1.65702,14.04926 -14.04927,-1.657026 c -10.85212,-1.27978 -20.69357,6.488039 -21.96338,17.339574 -1.27978,10.852114 6.48803,20.693569 17.33957,21.963383 l 53.35223,6.280898 6.28088,-53.352233 C 449.51548,14.138324 441.74768,4.2968704 430.89614,3.0270548 Z"
+     id="1coeur-VET"
+     style="fill:#0073bd" />
+  <path
+     class="color-accent"
+     d="m 440.44891,93.398137 1.61227,-13.368017 -39.29705,-4.730667 -1.61227,13.368017 c -1.30947,10.847723 6.43074,20.70967 17.2779,22.00915 10.84773,1.30947 20.70968,-6.43076 22.00916,-17.277917 z"
+     id="branche2-6-6"
+     style="fill:#a6f31f;fill-opacity:1" />
+  <path
+     class="color-branche1"
+     d="m 461.95492,40.827135 -13.36341,-1.649889 -4.83996,39.283732 13.36342,1.649889 c 10.84404,1.339541 20.72746,-6.373131 22.0571,-17.216646 1.33954,-10.844041 -6.37313,-20.727478 -17.21665,-22.057111 z"
+     id="branche1-5-7"
+     style="fill:#30baed" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.2677px;font-family:Folks;-inkscape-font-specification:'Folks Bold';fill:#008000;stroke-width:0.3547"
+     x="395.46289"
+     y="14.822445"
+     id="text729-3"
+     transform="rotate(7)"><tspan
+       sodipodi:role="line"
+       id="tspan727-6"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.2677px;font-family:Folks;-inkscape-font-specification:'Folks Bold';fill:#ffffff;stroke-width:0.3547"
+       x="395.46289"
+       y="14.822445">VET</tspan></text>
+  <path
+     class="color-coeur"
+     d="M 562.24815,4.0942118 C 551.396,2.8144305 541.55457,10.582251 540.28475,21.433794 l -1.65703,14.049261 -14.04927,-1.657027 c -10.85211,-1.279779 -20.69357,6.48804 -21.96337,17.339575 -1.27978,10.852113 6.48803,20.693568 17.33956,21.963382 l 53.35223,6.280899 6.28088,-53.352233 C 580.86753,15.205487 573.09973,5.3640338 562.2482,4.0942179 Z"
+     id="1coeur-VET-5"
+     style="fill:#0073bd" />
+  <path
+     class="color-accent"
+     d="m 571.59685,93.551789 1.61228,-13.368016 -39.29706,-4.730667 -1.61226,13.368015 c -1.30947,10.847724 6.43073,20.709679 17.27789,22.009149 10.84773,1.30947 20.70969,-6.43075 22.00916,-17.277914 z"
+     id="branche2-6-6-6"
+     style="fill:#ff0000" />
+  <path
+     class="color-branche1"
+     d="m 592.22837,41.894298 -13.36342,-1.649889 -4.83996,39.283732 13.36342,1.649889 c 10.84404,1.339542 20.72747,-6.373131 22.0571,-17.216645 1.33954,-10.844041 -6.37312,-20.727479 -17.21664,-22.057112 z"
+     id="branche1-5-7-9"
+     style="fill:#ff0000" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.2677px;font-family:Folks;-inkscape-font-specification:'Folks Bold';fill:#008000;stroke-width:0.3547"
+     x="524.23566"
+     y="1.2782594"
+     id="text729-3-5"
+     transform="rotate(7)"
+     inkscape:label="vetai"><tspan
+       sodipodi:role="line"
+       id="tspan727-6-5"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.2677px;font-family:Folks;-inkscape-font-specification:'Folks Bold';fill:#ffffff;stroke-width:0.3547"
+       x="524.23566"
+       y="1.2782594">VET</tspan></text>
+  <path
+     class="color-coeur"
+     d="M 60.019083,5.747259 C 49.173519,4.412895 39.293145,12.131133 37.968747,22.976148 L 36.241032,37.0169 22.200285,35.289185 C 11.354752,33.954811 1.4743472,41.67305 0.14997802,52.518065 -1.1843875,63.363603 6.5338426,73.244006 17.378853,74.568384 l 53.319955,6.549184 6.549185,-53.319953 C 78.582322,16.95204 70.864095,7.0716375 60.019083,5.747259 Z"
+     id="1coeur" />
+  <path
+     class="color-branche1"
+     d="M 89.549997,43.451787 76.185706,41.808944 71.3652,81.095074 84.729491,82.737917 C 95.574181,84.072198 105.45381,76.354542 106.77809,65.510373 108.11267,54.66572 100.39471,44.786052 89.550544,43.461776 Z"
+     id="branche1" />
+  <path
+     class="color-branche2"
+     d="m 31.36119,76.977258 -1.642843,13.36429 c -1.334281,10.844692 6.383376,20.724322 17.227544,22.048592 10.844655,1.33458 20.724323,-6.38337 22.048597,-17.227539 L 70.637331,81.79831 31.3512,76.977804 Z"
+     id="branche2"
+     style="fill:#a6f31f;fill-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.7008px;font-family:Folks;-inkscape-font-specification:Folks;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.3547"
+     x="77.801567"
+     y="31.218254"
+     id="text1"
+     transform="rotate(7)"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.7008px;font-family:Folks;-inkscape-font-specification:'Folks Bold';text-align:end;text-anchor:end;stroke-width:0.3547"
+       x="77.801567"
+       y="31.218254" /><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.7008px;font-family:Folks;-inkscape-font-specification:'Folks Bold';text-align:end;text-anchor:end;stroke-width:0.3547"
+       x="77.801567"
+       y="59.594254"
+       id="tspan2">health</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.0512px;font-family:Folks;-inkscape-font-specification:'Folks Bold';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#ffffff;stroke-width:0.3547"
+     x="72.744797"
+     y="31.728712"
+     id="text3"
+     transform="rotate(7)"><tspan
+       sodipodi:role="line"
+       id="tspan3"
+       style="font-size:34.0512px;stroke-width:0.3547"
+       x="72.744797"
+       y="31.728712">1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.2677px;font-family:Folks-Heavy;-inkscape-font-specification:'Folks-Heavy Bold';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#ffffff;stroke-width:0.3547"
+     x="478.14053"
+     y="15.558857"
+     id="text4"
+     transform="rotate(7)"><tspan
+       sodipodi:role="line"
+       id="tspan4"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.2677px;font-family:Folks;-inkscape-font-specification:'Folks Bold';stroke-width:0.3547"
+       x="478.14053"
+       y="15.558857">AI</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.2677px;font-family:Folks-Heavy;-inkscape-font-specification:'Folks-Heavy Bold';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#ffffff;stroke-width:0.3547"
+     x="608.008"
+     y="1.1239382"
+     id="text4-7"
+     transform="rotate(7)"><tspan
+       sodipodi:role="line"
+       id="tspan4-1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.2677px;font-family:Folks;-inkscape-font-specification:'Folks Bold';stroke-width:0.3547"
+       x="608.008"
+       y="1.1239382">AI</tspan></text>
+  <path
+     class="color-coeur"
+     d="m 691.24934,4.2171374 c -10.85215,-1.27979 -20.69358,6.4880296 -21.9634,17.3395796 l -1.65703,14.04926 -14.04927,-1.65703 c -10.85211,-1.27978 -20.69357,6.48804 -21.96337,17.33958 -1.27978,10.85211 6.48803,20.69356 17.33956,21.96338 l 53.35223,6.2809 6.28088,-53.35224 C 709.86872,15.328407 702.10092,5.4869574 691.24939,4.2171374 Z"
+     id="1coeur-VET-5-5"
+     style="fill:#0073bd" />
+  <path
+     class="color-accent"
+     d="m 700.59804,93.674707 1.61228,-13.36801 -39.29706,-4.73067 -1.61226,13.36802 c -1.30947,10.84772 6.43073,20.709673 17.27789,22.009143 10.84773,1.30947 20.70969,-6.43075 22.00916,-17.277913 z"
+     id="branche2-6-6-6-2"
+     style="fill:#a6f31f;fill-opacity:1" />
+  <path
+     class="color-branche1"
+     d="m 721.22956,42.017217 -13.36342,-1.64989 -4.83996,39.28373 13.36342,1.64989 c 10.84404,1.33955 20.72747,-6.37313 22.0571,-17.21664 1.33954,-10.84404 -6.37312,-20.72748 -17.21664,-22.05711 z"
+     id="branche1-5-7-9-7"
+     style="fill:#ff0000" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.2677px;font-family:Folks;-inkscape-font-specification:'Folks Bold';fill:#008000;stroke-width:0.3547"
+     x="652.29028"
+     y="-14.321027"
+     id="text729-3-5-6"
+     transform="rotate(7)"
+     inkscape:label="vetai"><tspan
+       sodipodi:role="line"
+       id="tspan727-6-5-1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.2677px;font-family:Folks;-inkscape-font-specification:'Folks Bold';fill:#ffffff;stroke-width:0.3547"
+       x="652.29028"
+       y="-14.321027">VET</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.2677px;font-family:Folks-Heavy;-inkscape-font-specification:'Folks-Heavy Bold';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#ffffff;stroke-width:0.3547"
+     x="736.06262"
+     y="-14.475355"
+     id="text4-7-4"
+     transform="rotate(7)"><tspan
+       sodipodi:role="line"
+       id="tspan4-1-2"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.2677px;font-family:Folks;-inkscape-font-specification:'Folks Bold';stroke-width:0.3547"
+       x="736.06262"
+       y="-14.475355">AI</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.7008px;font-family:Folks-Heavy;-inkscape-font-specification:'Folks-Heavy Bold';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#ffffff;stroke-width:0.3547"
+     x="223.56537"
+     y="47.947285"
+     id="text4-9"
+     transform="rotate(7)"><tspan
+       sodipodi:role="line"
+       id="tspan4-4"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.7008px;font-family:Folks;-inkscape-font-specification:'Folks Bold';stroke-width:0.3547"
+       x="223.56537"
+       y="47.947285">AI</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.2677px;font-family:Folks-Heavy;-inkscape-font-specification:'Folks-Heavy Bold';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#ffffff;stroke-width:0.3547"
+     x="350.34467"
+     y="28.587286"
+     id="text4-9-8"
+     transform="rotate(7)"><tspan
+       sodipodi:role="line"
+       id="tspan4-4-2"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.2677px;font-family:Folks;-inkscape-font-specification:'Folks Bold';stroke-width:0.3547"
+       x="350.34467"
+       y="28.587286">AI</tspan></text>
+</svg>
